@@ -1,8 +1,4 @@
-#JN: Almost works. Sadly capitalization should be accounted for.
-#In the word 'Scars' if users guess 's' that should mean they guess both 'S' and 's'.
-#Also, guessing the same wrong letter should only count once.
-#Proper testing would ensure that (I played it twice and noticed the issue).
-#80/100
+
 
 import random
 from cs1graphics import *
